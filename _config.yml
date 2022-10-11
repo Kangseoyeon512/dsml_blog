@@ -1,7 +1,7 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+#baseurl:        "/tale"
 url:            "https://dsml_blog.github.io"
 
 # Google Analytics
